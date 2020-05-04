@@ -1,6 +1,6 @@
-# console-java-simple
+# Building a Responsive Application with Bootstrap
 
-A simple java "Hello World!" application, buildable with both maven and gradle. Useful for testing Eclipse Che Java workspaces.
+(A simple java "Hello World!" application, buildable with both maven and gradle. Useful for testing Eclipse Che Java workspaces.)
 
 
 # Building manually
